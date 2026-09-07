@@ -1,5 +1,5 @@
 # Svetlana Nešković
-### UX Designer & AI Literacy Trainer
+### UX Designer & AI Literacy Trainer · Associate, @ TiramisuERP Support & Implementation @ Data Design
 > **Turning Complexity into Clarity**
  
 ---
@@ -21,6 +21,11 @@ I developed **UCBO (User-Centric Business Ontology)**, a proprietary framework t
 Instead of treating UX, Information Architecture, and AI visibility as separate disciplines, UCBO combines them into a single diagnostic process that produces a prioritized, actionable roadmap. It's the foundation of every audit and consulting engagement I run.
  
 ---
+
+## Current Role
+Right now, I'm leveling up client experiences at @ Data Design, where I work as an Associate on @ TiramisuERP, a cloud-based business management system. In practice, that means understanding a client's actual business process before I suggest anything, where it breaks down, what they really need, and helping translate that into a software system that works for them every day.
+
+ ---
  
 ## Areas of Expertise
  
